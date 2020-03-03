@@ -1,0 +1,11 @@
+# header info
+title: EmpaTheory Research
+author: kAoStH-eErY
+email: y0gheebear@gmail.com
+description: EmpaTheory Research -- team infoshare
+twitter_username: tbd
+github_username:  KaoTica
+
+# build settings
+markdown: kramdown
+theme: minima
